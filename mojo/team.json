@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Jean",
+		"position": "CEO",
+		"location": "Paris"
+	},
+	{
+		"name": "Francescu",
+		"position": "CTO",
+		"location": "Paris"
+	},
+	{
+		"name": "Fabien",
+		"position": "Mobile Engineer",
+		"platform": "iOS",
+		"location": "Paris"
+	},
+	{
+		"name": "Ali",
+		"position": "Mobile Engineer",
+		"platform": "iOS",
+		"location": "Angers"
+	},
+	{
+		"name": "Thibaud",
+		"position": "Mobile Engineer",
+		"platform": "Android",
+		"location": "Le Vesinet"
+	},
+	{
+		"name": "Anthony",
+		"position": "Performance Marketing Specialist",
+		"location": "Lyon"
+	},
+	{
+		"name" : "Axel",
+		"position": "Fullstack Engineer",
+		"platform": "Fullstack",
+		"location": "Brive-la-Gaillarde"
+	},
+	{
+		"name": "Pierre-Elie",
+		"position": "Mobile Engineer",
+		"platform": "Android",
+		"location": "Paris"
+	},
+	{
+		"name": "Stéphanie",
+		"position": "People & Admin Manager",
+		"location": "Paris"
+	},
+	{
+		"name": "Nathan",
+		"position": "Creative Engineer",
+		"location": "Paris"
+	},
+	{
+		"name": "Jeremie",
+		"position": "Engineering Manager",
+		"location": "Paris"
+	},
+	{
+		"name": "Louis",
+		"position": "Head of Design",
+		"location": "Marseille"
+	},
+]

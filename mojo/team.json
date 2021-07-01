@@ -2,62 +2,73 @@
 	{
 		"name": "Jean",
 		"position": "CEO",
-		"location": "Paris"
+		"location": "Paris",
+		"pic": "https://ptitchevreuil.github.io/mojo/jean.jpg"
 	},
 	{
 		"name": "Francescu",
 		"position": "CTO",
-		"location": "Paris"
+		"location": "Paris",
+		"pic": "https://ptitchevreuil.github.io/mojo/francescu.jpg"
 	},
 	{
 		"name": "Fabien",
 		"position": "Mobile Engineer",
 		"platform": "iOS",
-		"location": "Paris"
+		"location": "Paris",
+		"pic": "https://ptitchevreuil.github.io/mojo/fabien.jpg"
 	},
 	{
 		"name": "Ali",
 		"position": "Mobile Engineer",
 		"platform": "iOS",
-		"location": "Angers"
+		"location": "Angers",
+		"pic": "https://ptitchevreuil.github.io/mojo/ali.jpg"
 	},
 	{
 		"name": "Thibaud",
 		"position": "Mobile Engineer",
 		"platform": "Android",
-		"location": "Le Vesinet"
+		"location": "Le Vesinet",
+		"pic": "https://ptitchevreuil.github.io/mojo/thibaud.jpg"
 	},
 	{
 		"name": "Anthony",
 		"position": "Performance Marketing Specialist",
-		"location": "Lyon"
+		"location": "Lyon",
+		"pic": "https://ptitchevreuil.github.io/mojo/anthony.png"
 	},
 	{
 		"name" : "Axel",
 		"position": "Fullstack Engineer",
 		"platform": "Fullstack",
-		"location": "Brive-la-Gaillarde"
+		"location": "Brive-la-Gaillarde",
+		"pic": "https://ptitchevreuil.github.io/mojo/axel.jpg"
 	},
 	{
 		"name": "Pierre-Elie",
 		"position": "Mobile Engineer",
 		"platform": "Android",
-		"location": "Paris"
+		"location": "Paris",
+		"pic": "https://ptitchevreuil.github.io/mojo/pierre-elie.jpg"
 	},
 	{
 		"name": "Stéphanie",
 		"position": "People & Admin Manager",
-		"location": "Paris"
+		"location": "Paris",
+		"pic": "https://ptitchevreuil.github.io/mojo/stephanie.png"
 	},
 	{
 		"name": "Nathan",
 		"position": "Creative Engineer",
-		"location": "Paris"
+		"location": "Paris",
+		"pic": "https://ptitchevreuil.github.io/mojo/nathan.jpg"
 	},
 	{
 		"name": "Jeremie",
 		"position": "Engineering Manager",
-		"location": "Paris"
+		"location": "Paris",
+		"pic": "https://ptitchevreuil.github.io/mojo/jeremie.png"
 	},
 	{
 		"name": "Louis",

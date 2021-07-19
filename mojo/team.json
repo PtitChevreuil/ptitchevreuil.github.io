@@ -68,11 +68,11 @@
 		"name": "Jeremie",
 		"position": "Engineering Manager",
 		"location": "Paris",
-		"pic": "https://ptitchevreuil.github.io/mojo/jeremie.png"
+		"pic": "https://ptitchevreuil.github.io/mojo/jeremi.png"
 	},
 	{
 		"name": "Louis",
 		"position": "Head of Design",
 		"location": "Marseille"
-	},
+	}
 ]

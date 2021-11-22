@@ -26,13 +26,6 @@
 		"pic": "https://ptitchevreuil.github.io/mojo/ali.jpg"
 	},
 	{
-		"name": "Thibaud",
-		"position": "Mobile Engineer",
-		"platform": "Android",
-		"location": "Le Vesinet",
-		"pic": "https://ptitchevreuil.github.io/mojo/thibaud.jpg"
-	},
-	{
 		"name": "Anthony",
 		"position": "Performance Marketing Specialist",
 		"location": "Lyon",

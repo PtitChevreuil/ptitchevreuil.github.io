@@ -7,9 +7,18 @@
             "y":0,
             "width":1,
             "height":1,
-            "media":"media1",
-            "media_content_mode":"fit",
-            "background_color":"#73D3A2"
+            "padding":0.1,
+            "background_color":"#73D3A2",
+            "children":[
+               {
+                  "x":0,
+                  "y":0,
+                  "width":1,
+                  "height":1,
+                  "media":"media1",
+                  "media_content_mode":"fit"
+               }
+            ]
          }
       },
       {

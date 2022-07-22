@@ -130,7 +130,7 @@
       }
     },
     {
-      "name": "My first template",
+      "name": "My first template 1",
       "data": {
         "x": 0,
         "y": 0,
@@ -151,7 +151,7 @@
       }
     },
     {
-      "name": "My second template",
+      "name": "My second template 1",
       "data": {
         "width": 1,
         "height": 1,
@@ -211,7 +211,7 @@
       }
     },
     {
-      "name": "My third template",
+      "name": "My third template 1",
       "data": {
         "width": 1,
         "height": 1,

@@ -115,7 +115,6 @@
               {
                 "width": 0.4375,
                 "height": 1,
-                "background_color": "#73D3A2",
                 "media": "media1",
                 "media_content_mode": "fit"
               },
@@ -124,7 +123,6 @@
                 "width": 0.4375,
                 "height": 1,
                 "anchor_x": "right",
-                "background_color": "#73D3A2",
                 "media": "media1",
                 "media_content_mode": "fill"
               }
